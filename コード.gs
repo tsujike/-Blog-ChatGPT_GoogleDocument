@@ -43,7 +43,7 @@ function getTargetWord() {
 function askChatGPT(word) {
 
   // API Key
-  const apiKey = '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';
+  const apiKey = 'API Keyをコピペ';
  
   // API Key
   // const apiKey = "API Keyを入力";
