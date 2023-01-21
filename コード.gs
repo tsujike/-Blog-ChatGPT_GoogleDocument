@@ -44,9 +44,6 @@ function askChatGPT(word) {
 
   // API Key
   const apiKey = 'API Keyをコピペ';
- 
-  // API Key
-  // const apiKey = "API Keyを入力";
 
   //エンドポイントとパラメータ
   const endpoint = 'https://api.openai.com/v1/completions';
